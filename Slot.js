@@ -1,10 +1,3 @@
-//Deposit Money
-//Determie number of lines to bet on
-//Collect the bet amount
-//spin the machine
-//Check if user won
-//give user its winning
-//play again
 
 const prompt = require("prompt-sync")();
 
